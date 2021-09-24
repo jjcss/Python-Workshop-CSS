@@ -1,6 +1,6 @@
 # Python-Workshop-CSS
-September 23, 2021
-First workshop for Computer Science Society Club
+<p> September 23, 2021 <br>
+First workshop for Computer Science Society Club </p>
 
 In this workshop the CSS club decided to a code along Python workshop by creating a simple Turtle Crossing game. 
 We use the Turtle graphics library, which is based on Tkinter GUI toolkit, along with some OOP concepts to explain how these work in Python.
