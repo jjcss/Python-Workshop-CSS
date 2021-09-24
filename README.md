@@ -12,6 +12,10 @@ We hope you walk away with some knowledge and that you got to have some fun whil
 We put 2 folders one which has the empty files you would use to follow along with the video recording and 
 the other one will have the finished project for reference.
 
+### Recording information:
+- [Zoom link](https://jjay-cuny.zoom.us/rec/share/-4NUIzweXU8CnZKvK7vGIluz45l6HBGxKIhhD8WAaPAjD6F-7t01vNH_vCCvVGZ3.2ZDRV4eL3Ooo_-uO)
+- Passcode: +HHbj2G2 
+
 ## Resources for the workshop:
 - [Classes Explanation with Python](https://www.geeksforgeeks.org/python-classes-and-objects/)
 - [Turtle Graphics Documentation](https://docs.python.org/3/library/turtle.html)
